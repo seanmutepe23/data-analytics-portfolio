@@ -34,5 +34,6 @@ The dashboard explores:
 Google Looker Studio
 
 ## Project Output
+[View Interactive Dashboard](https://datastudio.google.com/s/nqhUa_LTTA8)
 
 The completed analysis is available in the PDF included in this repository.
